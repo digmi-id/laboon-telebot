@@ -1,5 +1,5 @@
 # Laboon 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/imamdigmi/laboon-telebot/blob/master/LICENSE)
 
 [Telegram Bot](https://core.telegram.org/bots) for [Docker](https://www.docker.com/) made with [Rust programming language](https://www.rust-lang.org/en-US/). With this bot expected docker users can easily manage images, containers, networks and others inside or outside Swarm mode.
 
