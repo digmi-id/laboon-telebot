@@ -1,0 +1,6 @@
+[package]
+name = "laboon-telebot"
+version = "0.1.0"
+authors = ["imamdigmi <imam.digmi@gmail.com>"]
+
+[dependencies]
